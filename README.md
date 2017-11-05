@@ -7,7 +7,8 @@ NodeMCU with ESP8266 to show Time, Temperature and Humidity on an 128x64 OLED Di
  SDA | I2C SDA (GPIO D3)
  SCL | I2C SCL (GPIO D5)
  
-DHT pinout (front view left to right:
+DHT pinout (front view left to right):
+(Use a 10K Resistor between Vin and Data)
  Vin | 3.3V
  Data | D6
  3	| empty
